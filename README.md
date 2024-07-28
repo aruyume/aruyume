@@ -11,11 +11,11 @@
 
 <div align="center">
  
- 🔭 I’m currently studying at Geeks
+ ✨ I’m currently studying at Geeks
 
  </div>
  
-<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
+<h2 align="center">🍕 Languages-Frameworks-Tools 🍕</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=css,github,figma,git" />
@@ -25,7 +25,7 @@
 <br/>
 
 <div align="center">
-  <h2> My Contributions </h2>
+  <h2>🍕 My Contributions 🍕</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
