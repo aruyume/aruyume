@@ -11,7 +11,7 @@
 
 <div align="center">
  
- ✨ I’m currently studying at Geeks
+ ✨ I finished studying at Geeks and I'm a mentor
 
  </div>
  
